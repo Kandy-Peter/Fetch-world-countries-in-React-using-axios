@@ -1,0 +1,23 @@
+.logo{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.815);
+    position: absolute;
+    top: 5px;
+    left: 50%;transform: translateX(-50%);
+    height: 50px; width: 200px; 
+    justify-content: center; align-items: center;
+    border-radius: 10px;
+
+box-shadow: 0 1px 2px 0 rgba(51, 51, 51, 0.5);
+}
+h3{
+    color: $color-1;
+    letter-spacing: 1px;
+    
+}
+img{
+    height: 34px;
+    width: 34px;
+    margin-right: 10px;
+    object-fit: cover;
+}
