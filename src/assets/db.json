@@ -1,0 +1,58 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "author": "Kandy Peter",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.",
+      "date": 1621530288602
+    },
+    {
+      "id": 2,
+      "author": "Yannick",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.",
+      "date": 1621530288432
+    },
+    {
+      "id": 3,
+      "author": "Roland Mweze",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.",
+      "date": 1621530213712
+    },
+    {
+      "id": 4,
+      "author": "Axel Franklin",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.",
+      "date": 1621530209467
+    },
+    {
+      "author": "Freud",
+      "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam similique repellat nesciunt praesentium accusamus a distinctio cumque dolores officiis. Nam, enim nostrum? Aperiam, quisquam deleniti laboriosam pariatur architecto excepturi ratione.",
+      "date": 1621530253622,
+      "id": 5
+    },
+    {
+      "author": "Marcel",
+      "content": "Ediditon de tput out tout come on le dit",
+      "date": 1629996175713,
+      "id": 6
+    },
+    {
+      "author": "Ibrahim",
+      "content": "lorem ipsum\n",
+      "date": "2021-08-26T19:33:34.104Z",
+      "id": 7
+    },
+    {
+      "author": "fgfdg",
+      "content": "Texte EDited",
+      "date": "2021-08-26T19:34:20.310Z",
+      "id": 8
+    },
+    {
+      "author": "kandy kamuntu",
+      "content": "Texte EDited",
+      "date": "2021-08-26T19:37:07.245Z",
+      "id": 9
+    }
+  ]
+}
