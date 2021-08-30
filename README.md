@@ -10,3 +10,5 @@ The project contains many important points of react and helps me to understand t
 5. API & axios which is different from fetch,
 6. Props
 7. How to store data in React.
+The new commit added an option NEWS in the navigation bar and helps coder to know how to manage with inputs and buttons in react
+It also helps to know the limits of react and where we can use Redux which will have a new repository soon
